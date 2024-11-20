@@ -45,6 +45,5 @@
         "test": [
             "vendor/bin/phpunit"
         ]
-    },
-    "version": "2.0.0"
+    }
 }
